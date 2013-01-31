@@ -1,0 +1,7 @@
+Mi a legjellemzõbb az Ön számítógép-használatára?
+1.  Nagyon sokat használom, minden nap dolgozom vele, munkám elengedhetetlen részévé vált.
+2.  A feladataimtól függõen legtöbbször igénybe veszem, leginkább adminisztrációs feladatokra használom.
+3.  Egy vagy két irodai programot, vagy adminisztrációs programot használok, amelyek szükségesek a munkámhoz.
+4.  A munkámhoz nem szükséges feltétlenül a használata, azért ha van idõm, ismerkedem vele.
+5.  Csak otthon használom, internetezem, néha játszom.
+6.  Majdnem csak az Internet miatt használom.
